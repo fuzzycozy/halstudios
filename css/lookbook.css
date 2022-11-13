@@ -44,7 +44,8 @@ figure {
   padding: 0;
 }
 
-img, svg {
+img,
+svg {
   display: block;
   vertical-align: middle;
 }
@@ -318,14 +319,13 @@ header .head_cont nav .m_main_nav .m_nav_right .account {
 }
 
 footer .footer_cont {
-  display: flex;
-  justify-content: space-between;
-  font-weight: 500;
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
 }
 footer .footer_cont .f_01 {
   font-size: 0.7rem;
   line-height: 1.5;
-  width: 20%;
+  font-weight: 500;
   padding: 2rem;
   display: flex;
   flex-direction: column;
@@ -343,7 +343,7 @@ footer .footer_cont .f_05 {
 footer .footer_cont .f_02 {
   font-size: 0.7rem;
   line-height: 1.5;
-  width: 20%;
+  font-weight: 500;
   padding: 2rem;
   display: flex;
   flex-direction: column;
@@ -361,7 +361,7 @@ footer .footer_cont .f_05 {
 footer .footer_cont .f_03 {
   font-size: 0.7rem;
   line-height: 1.5;
-  width: 20%;
+  font-weight: 500;
   padding: 2rem;
   display: flex;
   flex-direction: column;
@@ -379,7 +379,7 @@ footer .footer_cont .f_05 {
 footer .footer_cont .f_04 {
   font-size: 0.7rem;
   line-height: 1.5;
-  width: 20%;
+  font-weight: 500;
   padding: 2rem;
   display: flex;
   flex-direction: column;
@@ -397,7 +397,7 @@ footer .footer_cont .f_05 {
 footer .footer_cont .f_05 {
   font-size: 0.7rem;
   line-height: 1.5;
-  width: 20%;
+  font-weight: 500;
   padding: 2rem;
   display: flex;
   flex-direction: column;
@@ -524,7 +524,8 @@ footer .footer_cont .time {
     display: flex;
   }
   footer .footer_cont {
-    justify-content: center;
+    justify-items: center;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
   }
   footer .footer_cont .f_01,
 footer .footer_cont .f_02,
