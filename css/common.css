@@ -524,7 +524,8 @@ footer .footer_cont .time {
     display: flex;
   }
   footer .footer_cont {
-    justify-content: center;
+    justify-items: center;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
   }
   footer .footer_cont .f_01,
 footer .footer_cont .f_02,

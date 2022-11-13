@@ -557,7 +557,8 @@ footer {
 
     footer {
         .footer_cont {
-            justify-content: center;
+            justify-items: center;
+            grid-template-columns: repeat(1, minmax(0, 1fr));
 
 
             .f_01,
