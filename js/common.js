@@ -1,5 +1,4 @@
 
-// 1. figma로 기능소개 작업 후 포트폴리오에 올리기
 
 history.scrollRestoration = "manual"
 
