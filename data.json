@@ -1,0 +1,330 @@
+{
+    "projects":[
+        {
+            "thumb": "img/projects/thumb_hauswear.png",
+            "title": "HAUSWEAR by HAL STUDIOS®",
+            "key": "hauswear"
+        },
+        {
+            "thumb": "img/projects/thumb_asics.png",
+            "title": "ASICS GEL-1130 by HAL STUDIOS®",
+            "key": "asics"
+        },
+        {
+            "thumb": "img/projects/thumb_ss2022.png",
+            "title": "SEASON 01 S/S 2022",
+            "key": "ss2022"
+        }
+    ],
+
+    "hauswear":[
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Maina Doe, Selasie Wussah<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/hauswear_0_a.png",
+            "img_b": "img/lookbook/hauswear_0_b.png",
+            "title": "HAUSWEAR by HAL STUDIOS®",
+            "title_img": "img/lookbook/hauswear_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Maina Doe, Selasie Wussah",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Maina Doe, Selasie Wussah<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/hauswear_1_a.png",
+            "img_b": "img/lookbook/hauswear_1_b.png",
+            "title": "HAUSWEAR by HAL STUDIOS®",
+            "title_img": "img/lookbook/hauswear_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Maina Doe, Selasie Wussah",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Maina Doe, Selasie Wussah<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/hauswear_2_a.png",
+            "img_b": "img/lookbook/hauswear_2_b.png",
+            "title": "HAUSWEAR by HAL STUDIOS®",
+            "title_img": "img/lookbook/hauswear_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Maina Doe, Selasie Wussah",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Maina Doe, Selasie Wussah<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/hauswear_3_a.png",
+            "img_b": "img/lookbook/hauswear_3_b.png",
+            "title": "HAUSWEAR by HAL STUDIOS®",
+            "title_img": "img/lookbook/hauswear_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Maina Doe, Selasie Wussah",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Maina Doe, Selasie Wussah<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/hauswear_4_a.png",
+            "img_b": "img/lookbook/hauswear_4_b.png",
+            "title": "HAUSWEAR by HAL STUDIOS®",
+            "title_img": "img/lookbook/hauswear_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Maina Doe, Selasie Wussah",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Maina Doe, Selasie Wussah<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/hauswear_5_a.png",
+            "img_b": "img/lookbook/hauswear_5_b.png",
+            "title": "HAUSWEAR by HAL STUDIOS®",
+            "title_img": "img/lookbook/hauswear_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Maina Doe, Selasie Wussah",
+            "direction": "Design / Direction by John Bouquet"
+        },        
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Maina Doe, Selasie Wussah<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/hauswear_6_a.png",
+            "img_b": "img/lookbook/hauswear_6_b.png",
+            "title": "HAUSWEAR by HAL STUDIOS®",
+            "title_img": "img/lookbook/hauswear_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Maina Doe, Selasie Wussah",
+            "direction": "Design / Direction by John Bouquet"
+        }
+    ],
+
+    "asics":[
+        {
+            "info":"Photography by Kev Bouquet<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/asics_0_a.png",
+            "img_b": "img/lookbook/asics_0_b.png",
+            "title": "ASICS GEL-1130 by HAL STUDIOS®",
+            "title_img": "img/lookbook/asics_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/asics_1_a.png",
+            "img_b": "img/lookbook/asics_1_b.png",
+            "title": "ASICS GEL-1130 by HAL STUDIOS®",
+            "title_img": "img/lookbook/asics_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/asics_2_a.png",
+            "img_b": "img/lookbook/asics_2_b.png",
+            "title": "ASICS GEL-1130 by HAL STUDIOS®",
+            "title_img": "img/lookbook/asics_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/asics_3_a.png",
+            "img_b": "img/lookbook/asics_3_b.png",
+            "title": "ASICS GEL-1130 by HAL STUDIOS®",
+            "title_img": "img/lookbook/asics_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/asics_4_a.png",
+            "img_b": "img/lookbook/asics_4_b.png",
+            "title": "ASICS GEL-1130 by HAL STUDIOS®",
+            "title_img": "img/lookbook/asics_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/asics_5_a.png",
+            "img_b": "img/lookbook/asics_5_b.png",
+            "title": "ASICS GEL-1130 by HAL STUDIOS®",
+            "title_img": "img/lookbook/asics_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "",
+            "direction": "Design / Direction by John Bouquet"
+        }
+    ],
+
+    "ss2022":[
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_0_a.png",
+            "img_b": "img/lookbook/ss2022_0_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_1_a.png",
+            "img_b": "img/lookbook/ss2022_1_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_2_a.png",
+            "img_b": "img/lookbook/ss2022_2_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_3_a.png",
+            "img_b": "img/lookbook/ss2022_3_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",                                     
+            "img_a": "img/lookbook/ss2022_4_a.png",
+            "img_b": "img/lookbook/ss2022_4_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_5_a.png",
+            "img_b": "img/lookbook/ss2022_5_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_6_a.png",
+            "img_b": "img/lookbook/ss2022_6_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_7_a.png",
+            "img_b": "img/lookbook/ss2022_7_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_8_a.png",
+            "img_b": "img/lookbook/ss2022_8_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_9_a.png",
+            "img_b": "img/lookbook/ss2022_9_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_10_a.png",
+            "img_b": "img/lookbook/ss2022_10_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_11_a.png",
+            "img_b": "img/lookbook/ss2022_11_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_12_a.png",
+            "img_b": "img/lookbook/ss2022_12_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_13_a.png",
+            "img_b": "img/lookbook/ss2022_13_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_14_a.png",
+            "img_b": "img/lookbook/ss2022_14_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_15_a.png",
+            "img_b": "img/lookbook/ss2022_15_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        },
+        {
+            "info":"Photography by Kev Bouquet<br>Talent: Yibeltal Campbell<br>Design / Direction by John Bouquet",
+            "img_a": "img/lookbook/ss2022_16_a.png",
+            "img_b": "img/lookbook/ss2022_16_b.png",
+            "title": "SEASON 01 S/S 2022",
+            "title_img": "img/lookbook/ss2022_title.svg",
+            "photography": "Photography by Kev Bouquet",
+            "talent": "Talent: Yibeltal Campbell",
+            "direction": "Design / Direction by John Bouquet"
+        }
+    ]
+
+    
+}

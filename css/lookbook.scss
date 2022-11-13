@@ -1,0 +1,132 @@
+@import "common";
+
+
+.lookbook{
+    h2{
+        width:16rem;
+        align-items: center;
+        margin:1.25rem auto .5rem;
+        img{
+            width:100%;
+            height:5rem;
+        }
+    }
+
+    .desktop{
+
+        .look_swp{
+
+            .swiper-wrapper{
+
+                .swiper-slide{
+                    display: flex;
+
+                    figure{
+                        width:50%;
+                        
+                        img{
+                            width:100%;
+                            object-fit: contain;
+
+                        }
+                    }
+                }
+            }
+            .swiper-button-prev{
+                width:1.5rem;
+                height:1.5rem;
+                background-image:url('../img/lookbook/icon_prev.svg');
+                background-repeat:no-repeat;
+                background-size:100% auto;
+                background-position:50%;
+                
+                &:after{content:'';}
+
+            }
+            .swiper-button-next{
+                width:1.5rem;
+                height:1.5rem;
+                background-image:url('../img/lookbook/icon_next.svg');
+                background-repeat:no-repeat;
+                background-size:100% auto;
+                background-position:100%;
+                
+                &:after{content:'';}
+
+            }
+        }
+
+        .info_desktop{
+            margin: 2rem auto;
+            text-align:center;
+            font-size:.75rem;
+            line-height:1rem;
+            white-space:pre-line;
+            text-transform:none;
+        }
+    }
+
+    .mobile{
+        display:none;
+        
+        .look_swp{
+            width:100vw;
+            margin-top:6rem;
+
+            &.no_0{
+                margin:1rem auto .75rem;
+            }
+            &.no_1{
+                margin-top:1.5rem;
+            }
+
+            .swiper-pagination{
+                .swiper-pagination-bullet{
+                    border:1px solid #fbfbf6;
+                    background-color: transparent;
+                    opacity:1;
+
+                }
+                .swiper-pagination-bullet-active{
+                    border-width:0;
+                    background-color:#fbfbf6;
+                }
+            }
+
+            .swiper-wrapper{
+                .swiper-slide{
+                    .slide-item{
+                        width:100%;
+
+                        img{
+                            width:100%;
+                            object-fit: contain;
+                        }
+                    }
+                }
+            }
+        }
+        .info_mobile{
+            margin:.75rem auto;
+            text-align:center;
+            font-size: .75rem;
+            line-height: 1rem;
+            white-space: pre-line;
+            text-transform: none;
+        }
+    }
+}
+
+
+
+///////// 1023, 767 
+
+
+@media(max-width:767px) {
+    main{
+        .lookbook{
+            .desktop{display:none;}
+            .mobile{display:block;}
+        }
+    }
+}
